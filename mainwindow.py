@@ -17,13 +17,13 @@ class MainWindow(QtWidgets.QWidget):
         self.second_window=QtWidgets.QStackedWidget()
         self.setStyleSheet("background: white;")
         self.setWindowTitle("Celal Akçelik Bitirme Tezi")
-        self.setWindowIcon(QtGui.QIcon('images/igulogo.jpg'))
+        self.setWindowIcon(QtGui.QIcon('iimages/igulogo.jpg'))
         self.setMinimumSize(1200,900)
         self.setMaximumSize(1200,900)
         
         #logo
         self.logo=QtWidgets.QLabel(self)
-        self.logo.setPixmap(QtGui.QPixmap("images/igulogo.jpg"))
+        self.logo.setPixmap(QtGui.QPixmap("iimages/igulogo.jpg"))
         self.logo.setScaledContents(True)
         self.logo.resize(200,200)
         self.logo.move(500,0)
@@ -55,7 +55,7 @@ class MainWindow(QtWidgets.QWidget):
         
         #Ali Okatan
         self.ali_okatan_img=QtWidgets.QLabel(self)
-        self.ali_okatan_img.setPixmap(QtGui.QPixmap("images/ali okatan.jpg"))
+        self.ali_okatan_img.setPixmap(QtGui.QPixmap("iimages/ali okatan.jpg"))
         self.ali_okatan_img.setScaledContents(True)
         self.ali_okatan_img.setStyleSheet("border: 5px solid black;border-radius: 10px;background: white;")
         self.ali_okatan_img.resize(160,200)
@@ -71,7 +71,7 @@ class MainWindow(QtWidgets.QWidget):
         
         #Ali Çetinkaya
         self.ali_cetinkaya_img=QtWidgets.QLabel(self)
-        self.ali_cetinkaya_img.setPixmap(QtGui.QPixmap("images/ali cetinkaya.png"))
+        self.ali_cetinkaya_img.setPixmap(QtGui.QPixmap("iimages/ali cetinkaya.png"))
         self.ali_cetinkaya_img.setScaledContents(True)
         self.ali_cetinkaya_img.setStyleSheet("border: 5px solid black;border-radius: 10px;background: white;")
         self.ali_cetinkaya_img.resize(160,200)
@@ -95,7 +95,7 @@ class MainWindow(QtWidgets.QWidget):
         
         #Celal Akçelik
         self.celal_akcelik_img=QtWidgets.QLabel(self)
-        self.celal_akcelik_img.setPixmap(QtGui.QPixmap("images/celal.jpeg"))
+        self.celal_akcelik_img.setPixmap(QtGui.QPixmap("iimages/celal.jpeg"))
         self.celal_akcelik_img.setScaledContents(True)
         self.celal_akcelik_img.setStyleSheet("border: 5px solid black;border-radius: 10px;background: white;")
         self.celal_akcelik_img.resize(160,200)
@@ -119,7 +119,7 @@ class MainWindow(QtWidgets.QWidget):
         
         #Ali Şükran Özdemir
         self.ali_ozdemir_img=QtWidgets.QLabel(self)
-        self.ali_ozdemir_img.setPixmap(QtGui.QPixmap("images/ali şükran özdemir.jpeg"))
+        self.ali_ozdemir_img.setPixmap(QtGui.QPixmap("iimages/ali şükran özdemir.jpeg"))
         self.ali_ozdemir_img.setScaledContents(True)
         self.ali_ozdemir_img.setStyleSheet("border: 5px solid black;border-radius: 10px;background: white;")
         self.ali_ozdemir_img.resize(160,200)
@@ -135,7 +135,7 @@ class MainWindow(QtWidgets.QWidget):
         
         #İbrahim Demirkılıç
         self.ibrahim_demirkilic_img=QtWidgets.QLabel(self)
-        self.ibrahim_demirkilic_img.setPixmap(QtGui.QPixmap("images/ibrahim demirkilic.jpg"))
+        self.ibrahim_demirkilic_img.setPixmap(QtGui.QPixmap("iimages/ibrahim demirkilic.jpg"))
         self.ibrahim_demirkilic_img.setScaledContents(True)
         self.ibrahim_demirkilic_img.setStyleSheet("border: 5px solid black;border-radius: 10px;background: white;")
         self.ibrahim_demirkilic_img.resize(160,200)
