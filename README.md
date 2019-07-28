@@ -51,7 +51,9 @@
     </ul>  
   </li>
 </ul>
+
 ## Proje Çalıştığında Açılan Sayfa
+
 <ul>
   <li>mainwindow.py dosyasını çalıştırmalısınız.</li>
 </ul>
