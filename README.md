@@ -61,4 +61,9 @@
 ### Anasayfa
 
 <img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG">
+<p>Yukarıdaki resimde görüldüğü gibi "Yüz Tanımlamaya Başla" butonuna basınca yüz tanımlama, duygu analizi ve cinsiyet tespiti yapan sayfa açılmaktadır.</p>
+
+### Yüz Tanımlama, Duygu Analizi ve Cinsiyet Tespiti Yapan Sayfa
+
+<img src="<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG">
 
