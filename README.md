@@ -52,9 +52,9 @@
   </li>
 </ul>
 
-## Proje Çalıştığında Açılan Sayfa
+## Proje Çalıştığında Açılan Sayfalar
 
 <ul>
-  <li>mainwindow.py dosyasını çalıştırmalısınız.</li>
+  <li>mainwindow.py dosyasını çalıştırdığınızda anasayfa açılıyor.</li>
 </ul>
-<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG" style="width:50px;height:100;">
+<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG">
