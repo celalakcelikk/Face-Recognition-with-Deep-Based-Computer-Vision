@@ -4,10 +4,8 @@
 ## Projenin Çalışması İçin Gerekli Kütüphaler ve İndirme Linkleri
 <ul>
   <li>Tensorflow</li>
-  <p>CPU için:
-  <code>pip install --upgrade tensorflow</code></p>
-  <p>GPU için:</p>
-  <code>pip install --upgrade tensorflow-gpu</code>
+  CPU için:<code>pip install --upgrade tensorflow</code>
+  GPU için:<code>pip install --upgrade tensorflow-gpu</code>
   <li>Keras</li>
   <li>OpenCV</li>
   <li>PyQt5</li>
