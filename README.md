@@ -7,12 +7,12 @@
   <li>Proje Python 3 ile yazılmıştır.</li>
   <li>Anaconda & Spyder
       <ul>
-         <li>[İndirme Linki](https://www.anaconda.com/distribution/)</li>
+         <li>İndirme Linki: https://www.anaconda.com/distribution/ </li>
        </ul>  
   </li>
   <li>PyCharm
       <ul>
-         <li>[İndirme Linki:](https://www.jetbrains.com/pycharm/download/#section=windows)</li>
+         <li>İndirme Linki: https://www.jetbrains.com/pycharm/download/#section=windows </li>
        </ul>  
   </li>
 </ul>
