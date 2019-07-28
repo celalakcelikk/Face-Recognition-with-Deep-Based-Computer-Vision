@@ -69,4 +69,7 @@
 
 <img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/resim.PNG">
 
+#### Kameradan Yapma
+
+<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/kamera.PNG">
 
