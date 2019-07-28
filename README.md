@@ -57,6 +57,7 @@
 <ul>
   <li>mainwindow.py dosyasını çalıştırdığınızda anasayfa açılıyor.</li>
 </ul>
+
 #### Anasayfa
 
 <img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG">
