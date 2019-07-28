@@ -57,4 +57,4 @@
 <ul>
   <li>mainwindow.py dosyasını çalıştırmalısınız.</li>
 </ul>
-<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG" >
+<img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/maimwindow.PNG" style="width:500px;height:600px;">
