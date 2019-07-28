@@ -73,3 +73,4 @@
 
 <img src="https://github.com/celalakcelikk/Face-Recognition-with-Deep-Based-Computer-Vision/blob/master/iimages/kamera.PNG">
 
+<p>Yukarıdaki resimde görüldüğü gibi "Anasayfaya Dön" butonuna basınca anasayfa açılmaktadır.</p>
