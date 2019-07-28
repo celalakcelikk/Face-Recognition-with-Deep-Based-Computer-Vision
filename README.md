@@ -4,6 +4,7 @@
 ## Projenin Çalışması İçin Gerekli Kütüphaler
 <ul>
   <li>Tensorflow</li>
+  <p>pip3 install --user --upgrade tensorflow</p>
   <li>Keras</li>
   <li>OpenCV</li>
   <li>PyQt5</li>
