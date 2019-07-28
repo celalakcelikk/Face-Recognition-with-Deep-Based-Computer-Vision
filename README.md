@@ -1,10 +1,13 @@
 # Face Recognition With Deep Based Computer Vision
 İstanbul Gelişim Üniversitesi Bilgisayar Mühendisliği Lisans Derecesi bitirme tezidir. Tezde kullanılan dil Python dur. Seçilen resim ya da kameradan anlık olarak  yüz tanıma, duygu analizi ve cinsiyet tespiti yaptmaktadır. mainwindow.py dosyayı çalıştırmanız yeterlidir. Python 3+ programlama dili ile yazılmıştır.
 
-## Projenin Çalışması İçin Gerekli Kütüphaler
+## Projenin Çalışması İçin Gerekli Kütüphaler ve İndirme Linkleri
 <ul>
   <li>Tensorflow</li>
-  <code>pip3 install --user --upgrade tensorflow</code>
+  <p>CPU için:</p>
+  <code>pip install --upgrade tensorflow</code>
+  <p>GPU için:</p>
+  <code>pip install --upgrade tensorflow-gpu</code>
   <li>Keras</li>
   <li>OpenCV</li>
   <li>PyQt5</li>
