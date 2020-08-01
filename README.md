@@ -37,7 +37,7 @@
   </li>
   <li>PyQt5</li>
     <ul>
-          <li><code>pip install opencv-python</code></li>
+          <li><code>pip install PyQt5</code></li>
    </ul>  
   </li>
   <li>SYS</li>
